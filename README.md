@@ -11,5 +11,5 @@
 >> 中文  <br> English  <br> 日本語 <br> html <br> css <br> js(jquery) <br> sql <br> php <br> C++ <br> C# <br> python
 ## 網站連結
 > [個人頁面](http://chiu20060726.tk/) <br>
-> [2022師大資工營 前端vue網站](https://chiu20060726.github.io/ntnu-csie-2022/)<br>
+> [2022師大資工營 前端vue網站](https://chiu20060726.github.io/NTNU-CSIE-2022/)<br>
 > [好康的 uwu](https://youtu.be/dQw4w9WgXcQ)
