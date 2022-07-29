@@ -8,7 +8,7 @@
 > 喜歡寫程式(不喜歡的應該也不會有github帳號) <br>
 > 喜歡看動漫、VTB(我就DD) <br>
 > ### 會的語言 <br>
->> 中文  <br> English  <br> 日本語 <br> html <br> css <br> js(jquery) <br> sql <br> php <br> C++ <br> C# <br> pyton
+>> 中文  <br> English  <br> 日本語 <br> html <br> css <br> js(jquery) <br> sql <br> php <br> C++ <br> C# <br> python
 ## 網站連結
 > [個人頁面](http://chiu20060726.tk/) <br>
 > [2022師大資工營 前端vue網站](https://chiu20060726.github.io/ntnu-csie-2022/)<br>
