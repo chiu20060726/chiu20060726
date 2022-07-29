@@ -1,10 +1,15 @@
-- 👋 Hi, I’m chiu20060726，一個胖子(這.md應該看得出來)
-- 👀 I’m interested in 寫程式、看vtb
-- 🌱 I’m currently learning cpp html css js php
-- 💞️ I’m looking to collaborate on ???
-- 📫 How to reach me chiu20060726@gmail.com
-
-<!---
-chiu20060726/chiu20060726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 胖子のgithub頁面
+> 這裡大多放我的一些東東 <br>
+> 對，我把這裡當學習歷程檔案(?  <br>
+> 我也把這裡當免費的web server <br>
+## 自我介紹
+> 一枚肥宅 <br>
+> 就讀台北市中正高中 <br>
+> 喜歡寫程式(不喜歡的應該也不會有github帳號) <br>
+> 喜歡看動漫、VTB(我就DD) <br>
+> ### 會的語言 <br>
+>> 中文  <br> English  <br> 日本語 <br> html <br> css <br> js(jquery) <br> sql <br> php <br> C++ <br> C# <br> pyton
+## 網站連結
+> [個人頁面](http://chiu20060726.tk/) <br>
+> [2022師大資工營 前端vue網站](https://chiu20060726.github.io/ntnu-csie-2022/)<br>
+> [好康的 uwu](https://youtu.be/dQw4w9WgXcQ)
