@@ -1,13 +1,53 @@
-# 胖子のgithub頁面
-> 這裡大多放我的一些東東 <br>
-> 對，我把這裡當學習歷程檔案(?  <br>
-> 我也把這裡當免費的web server <br>
-## 自我介紹
-> 就讀台北市中正高中 <br>
-> 喜歡寫程式(不喜歡的應該也不會有github帳號) <br>
-> 喜歡看動漫、VTB(我就DD) <br>
-> ### 會的語言 <br>
->> 中文  <br> English  <br> 日本語 <br> html <br> css <br> js(jquery) <br> sql <br> php <br> C++ <br> C# <br> python
-## 網站連結
-> [個人頁面](https://chiu20060726.tk/) <br>
-> [社團網頁](https://zzis.azurewebsites.net/) <br>
+# About Me
+A student now studying CSIE in National Chi Nan University
+Got high school diploma in Taipei Municipal Zhong-zheng Senior High School
+
+# Experience
+* Presedent of 24th Student Association of CSIE, NCNU
+* Group Leader, NCNU ACM Student Chapter 
+* Graduation Students Mayor's Award of 112th Academic Year (Taipei City)
+* Speaker of SITCON 2024 
+* 3rd Price of 2024 TISF in Computer Science (No. 190020)
+* Vice-Presedent of Information Club, ZZSH
+
+# Skills
+
+## Coding
+* C/C++
+* php
+* Python
+* JavaScirpt
+  
+## WEB
+* Full-Stack
+* Back-end
+* WEB3 / Blockchain
+  
+## Internet
+* Router / Switch Operating (Juniper)
+* Firewall Config
+* DNS / DHCP Config
+* Server Operating (UNIX/Windows)
+* Cloud Computing (used GCP/AWS/OCI)
+* git
+
+## Wireless Communication
+* Wifi
+* BLE
+* LoRa
+
+## Hardware / Firmware
+* PCB design
+* Simply Circuit Design
+* HDL (Verilog)
+
+# School Club
+## University
+* NCNU ACM Student Chapter
+* Student Association of CSIE, NCNU
+* Photography Club
+* ACGN Club
+* GDSC NCNU
+
+## High School
+* Information Club
